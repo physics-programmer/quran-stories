@@ -1,0 +1,18 @@
+Templating:
+
+https://docs.google.com/document/u/1/d/e/2PACX-1vRahIr3-h_V31w2dMZXTAV9R2aXMB9Yoi-bIMQsRIanMXUO9rDtj5x7cL__hG05bmow-GvP7vcLlAcX/pub?utm_source=docs.google.com&utm_medium=tutorial&utm_campaign=midjourney
+
+Commands:
+https://tipseason.com/midjourney-cheatsheet/
+
+template:
+
+http://www.host.com/ReferenceImage.jpg Setting is place:: Name is description:: Setting contains Name doing activity:: atmosphere, filler details, media type, artists --v N --aspect X:Y
+
+Constants:
+Setting is / Name is / Setting contain
+
+FOR EXAMPLE…
+https://s.mj.run/I8ZplL4sdw8 Setting is an empty midnight forest clearing:: Amit is a middle-aged Indian man with short black hair:: Setting contains Amit holding a flashlight::1.5 in the style of Anton Pieck, Frida Kahlo --ar 9:16 --v 5
+
+

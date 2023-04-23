@@ -1,0 +1,53 @@
+Here is a MidJourney Prompt Formula:
+(image we're prompting), (5 descriptive keywords), (camera type), (camera lens type), (time of day), (style of photograph), (type of film)
+
+Please respond with "yes" if you understand the formula
+
+
+
+
+
+---------------
+Hey Assistant, I need your help creating Midjourney command for AI Art Suffixes. 
+ 
+The command for this kind of suffix should be in this format.
+ 
+`/prefer option set option:[simple one-word name, so it can be easily referred to later] value: - [three-word description of the style]::5 [clearer description of the style, including the medium]::4 [technical details about the style]::3 [color, lighting and tone hints for the style]::3 [something you do not want out of the style (explained as if you want it)]::-2`
+ 
+This formatting is taking advantage of Midjourney's multi-prompt functionality. The'::' splits up the prompt and the number chosen controls the weight of the prompt that came before it. In each piece it is important that the kind of artwork is mentioned, so that the multi-prompts do not interfere with each other. Since the AI does not understand grammar, in each part use comma separated keywords with heavy meaning to describe each. 
+ 
+For example:
+`/prefer option set option:impressionist value: - beautiful impressionist painting::5 dramatic oil painting, sweeping, expressive swirling strokes::4 painting, swirling impasto, thick brushes, pallet knife, strong creative choices, obvious brush marks::3 painted with saturated, epic colors, highly visual, rule of thirds::3 dull, boring, and ugly artwork::-2`
+ 
+`/prefer option set option:portrait value: - headshot portrait photography::5 beautiful rich photograph, with focal depth and a majestic blurring behind the subject's face::4 portrait photograph taken  on a Canon EOS 5D Mark IV DSLR, f/5.6 aperture, 1/125 second shutter speed, ISO 100::3 portrait with natural rim lighting, shot on location, beautiful exposure, and high dynamic range of both color and light::3 black and white vintage photo with grainy, blurry, and deformed subjects::-2`
+ 
+Since this will be used for AI 'Text-to-Image' processing, it's far more important to be specific than accurate to an existing style. Make bold and interesting choices when you invent your own art style.
+ 
+Please start by describing a visually appealing art style with clear detail so someone would be inspired to try the command. (Write in the format of persuasive ad copy) Then provide the command itself (as a code block so it can be easily copy and pasted). Repeat this task for three tries based on the following specification:
+ 
+I would like three options for creating epic fantasy landscapes. Please create aerial, kingdom, and natural. 
+ 
+#----------------------------------------------------------------------------------------------------------------------------------#
+ 
+Now could you help me create Midjourney commands for generating artworks with those styles (--aerial, --kingdom, and --natural)
+Format:
+`/imagine prompt:[Scene] with [Traits], [Lighting], [Mood]. --[Parameter] --ar [w:h]'
+ 
+Scene, traits, lighting, and mood can be brief descriptions in plain English. Scenes should be creative and extremely unique, bold outlooks on interesting visual places. Traits can be anything from items in the scene, to color pallet, or anything else to make the idea more unique. The lighting and mood should be consistent and can be used to enhance the visual idea. 
+ 
+Since this will be used for AI 'Text-to-Image' processing, it's far more important to be specific than accurate to any existing place or  Make bold and interesting choices for your artworks.
+ 
+No matter what parameter you use, they should match the vibe and tone of the scene you describe. For best results, please only make landscapes and architecture for these styles. 
+ 
+Special Note: I would love to incorporate the idea of fractals (fractal architecture, or fractal plant growth) into as many of the prompts as possible.
+ 
+I will use these as wallpapers so please make the aspect ratio 16:9.  
+ 
+Please create 5 /imagine commands in the previously described format. Please make sure the parameter used is right for the image you are generating. Please put each command into code blocks so they can be easily copied. 
+
+
+=IF(EXACT(LEFT(INDIRECT("$Y" & ROW());1);"M"); 117*(INDIRECT(ADDRESS(ROW(); COLUMN()-1; 4)) <> "Rien")*(1-ISBLANK(INDIRECT("$B" & ROW())))*VALUE(RIGHT(INDIRECT("$C" & ROW()))); 
+IF(EXACT(LEFT(INDIRECT("$Y" & ROW());1);"B"); 0*(INDIRECT(ADDRESS(ROW(); COLUMN()-1; 4)) <> "Rien")*(1-ISBLANK(INDIRECT("$B" & ROW())))*VALUE(RIGHT(INDIRECT("$C" & ROW()))); 
+IF(EXACT(LEFT(INDIRECT("$Y" & ROW());1); "C"); 104*(INDIRECT(ADDRESS(ROW(); COLUMN()-1; 4)) <> "Rien")*(1-ISBLANK(INDIRECT("$B" & ROW())))*VALUE(RIGHT(INDIRECT("$C" & ROW()))); 
+IF(EXACT(LEFT(INDIRECT("$Y" & ROW());1); "Q"); 85*(INDIRECT(ADDRESS(ROW(); COLUMN()-1; 4)) <> "Rien")*(1-ISBLANK(INDIRECT("$B" & ROW())))*VALUE(RIGHT(INDIRECT("$C" & ROW())));
+130*(INDIRECT(ADDRESS(ROW(); COLUMN()-1; 4)) <> "Rien")*(1-ISBLANK(INDIRECT("$B" & ROW())))*VALUE(RIGHT(INDIRECT("$C" & ROW())))))))
