@@ -1,0 +1,70 @@
+I want you to act as a muslim scholar and storyteller. You are a top selling author of moral and educational stories for children. You will come up with entertaining stories that are engaging, imaginative and captivating for the audience. It is moral and  educational stories based on some key some sentences I will provide you. The story has the potential to capture people's attention and imagination. Target audience are children between 6 and 10 years old.
+You will craft moral and educational story that are engaging, imaginative, and captivating for children between 6 and 10 years old, with the aim to educate and entertain them. You should be culturally sensitive to children who follow the Muslim monotheistic faith. The story is targeted to be read by parents to their children before bedtime.
+
+Do not write the book, please only generate the outline of the book. Please write only in the english language. Do not self reference. Do not explain what you are doing. Please only provide the book outline and nothing else.
+
+The outline should have chapters, with a title for each and a 400 word summary of each of the chapters.
+
+The outline is based only the the below content, including "Plot Summary", "Educational Commandments", "Moral values", "Characters", "Epoch", and "Pricipal events" listed below:
+
+--------------
+Plot Summary:
+
+In a small village, a group of children discover an ancient story about Qarun, a wealthy and arrogant man who was swallowed by the earth along with his treasure. Inspired by the story, the children decide to embark on an adventure to find Qarun's lost treasure.
+
+The children, led by a wise and knowledgeable girl named Aisha, research and learn more about Qarun's story. They understand the importance of humility and gratitude, as Qarun's arrogance and greed led to his downfall. As they journey through the village and the surrounding forests, they encounter various challenges that test their patience, teamwork, and resilience.
+
+Along the way, they meet an old man who shares stories about the village's history and the importance of kindness, generosity, and faith in Allah. The old man's wisdom reinforces the lessons the children have learned from Qarun's story, guiding them to be better individuals.
+
+After overcoming the obstacles, the children finally find the location where Qarun's treasure is said to be buried. However, instead of finding material wealth, they discover a hidden chest filled with books, scrolls, and other knowledge from Qarun's time.
+
+The children realize that the true treasure is the knowledge and wisdom they have gained through their journey, and the lessons they have learned about the importance of humility, gratitude, and faith. They return to their village, grateful for the experience, and share their newfound wisdom with their families and friends, ultimately making their community stronger and more united.
+
+Educational Commandments:
+
+1. Do not be arrogant or exultant.
+2. Seek the Hereafter and do not forget one's portion in this world.
+3. Be bounteous and grateful for what God has given.
+4. Do not seek corruption or spread it on earth.
+5. Have faith and perform righteous deeds.
+6. Be patient and endure hardships.
+7. Seek knowledge and act upon it.
+
+
+Moral values:
+
+1. Humility: The text cautions against arrogance and encourages humility, as God does not love those who exult in their riches or possessions.
+2. Seek the Hereafter: The passage advises using one's wealth and resources to seek the eternal abode in the Hereafter, rather than focusing solely on material success in this world.
+3. Generosity and compassion: The text encourages people to be generous and compassionate, just as God has been good to them, and to not forget their share in this world.
+4. Avoid corruption and mischief: The passage warns against engaging in corrupt activities and causing harm or mischief on earth, as God does not love those who do so.
+5. Patience and perseverance: The text emphasizes the importance of steadfastly persevering in good deeds and faith, as the ultimate reward from God in the Hereafter is reserved for those who are patient and perform righteous acts.
+
+
+
+Characters:
+
+1. Qarun
+2. People of Musa (Moses)
+3. Those who sought the life of the world
+4. Those who had been vouchsafed the knowledge
+
+
+Epoch:
+
+The story of Qarun (Korah) is mentioned in the Quran and is part of Islamic, Jewish, and Christian traditions. The exact time of the story is not clearly specified, but it is believed to have occurred during the time of Moses, which is estimated to be around the 13th or 14th century BCE.
+The location of the story is also not explicitly mentioned in the texts. However, since Qarun was part of Moses' people, it can be inferred that the events took place in the region where the Israelites lived during that time. This includes Egypt, where the Israelites were enslaved, and the Sinai Peninsula, where they wandered for 40 years after their exodus from Egypt.
+
+
+Principal events:
+
+1. Qarun is introduced as a wealthy and arrogant man from the people of Moses (Musa).
+2.Qarun's wealth is described as immense, with treasures so vast that their keys alone would weigh down a group of strong men.
+3. The people warn Qarun not to be exultant and arrogant, as God does not favor those who are boastful.
+4. They advise him to use his wealth for seeking the rewards of the Hereafter and to be generous to others, as God has been generous to him. They also warn him against causing corruption on Earth.
+5. Qarun attributes his wealth to his own knowledge and abilities, not acknowledging the blessings of God.
+6. The story references how God had destroyed previous generations of people who were stronger and more numerous than Qarun due to their arrogance and corruption.
+7. Qarun appears before his people in all his pomp and splendor, causing those who desire worldly gains to envy him and wish for his fortune.
+8. The wise and knowledgeable people remind others that the rewards of God are better for those who believe and do good deeds, and that only the patient will attain these rewards.
+9. God causes the Earth to swallow up Qarun and his dwelling as punishment for his arrogance and corruption.
+10. The people who had previously envied Qarun's wealth now recognize the power of God, realizing that He gives and takes away as He wills, and that the disbelievers do not succeed.
+11. The story concludes with a message that the rewards of the Hereafter are reserved for those who do not seek to exalt themselves or spread corruption on Earth, and that the ultimate success belongs to the righteous.
