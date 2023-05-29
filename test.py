@@ -10,7 +10,7 @@ my_session_token = 'eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..0qOUtAWfTDSlIXQN.Hv
 # print(response)
 
 
-template="You are a helpful assistant that translates english to pirate."
+template="You are a helpful assistant that asnwser questions"
 system_message_prompt = SystemMessagePromptTemplate.from_template(template)
 example_human = HumanMessagePromptTemplate.from_template("Hi")
 example_ai = AIMessagePromptTemplate.from_template("Argh me mateys")
